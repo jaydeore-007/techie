@@ -22,10 +22,13 @@ export const createStripeCustomer: BeforeChangeHook = async ({ req, data, operat
           stripeCustomerID: existingCustomer.data[0].id,
         }
       }
+      
 
       // create a new customer and assign the ID to the user
       const customer = await stripe.customers.create({
         email: data.email,
+        name: data.name,
+        address: data.address,
       })
 
       return {
