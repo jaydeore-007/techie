@@ -5,9 +5,7 @@ import { Button } from '../../../_components/Button';
 import { Message } from '../../../_components/Message';
 import classes from './index.module.scss';
 
-export const CheckoutForm: React.FC<{ description: string }> = ({ description }) => {
-  const [name, setName] = useState('');
-  const [address, setAddress] = useState('');
+export const CheckoutForm: React.FC<{}> = ({ }) => {
   const stripe = useStripe();
   const elements = useElements();
   const [error, setError] = useState<string | null>(null);
@@ -48,7 +46,6 @@ export const CheckoutForm: React.FC<{ description: string }> = ({ description })
   return (
     <form onSubmit={handleSubmit} className={classes.form}>
       {error && <Message error={error} />}
-      <div>{description}</div> {/* Display description */}
       <PaymentElement />
       <div className={classes.actions}>
         <Button label="Back to cart" href="/cart" appearance="secondary" />
