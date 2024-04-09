@@ -411,7 +411,6 @@ export interface Order {
   createdAt: string;
 }
 export interface User {
-  address: Emptyable<AddressParam>;
   id: string;
   name?: string | null;
   roles?: ('admin' | 'customer')[] | null;
