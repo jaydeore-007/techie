@@ -22,7 +22,10 @@
 ![ecomm9](https://github.com/jaydeore-007/techie/assets/93081519/d9a3189a-12b5-4f9a-9698-71f0c4245c6d)
 ![ecomm10](https://github.com/jaydeore-007/techie/assets/93081519/7453fb5f-8e24-4b84-aa90-ef0081e9291a)
 
-https://github.com/jaydeore-007/task-management/assets/93081519/bf26ed9a-8afd-459e-8337-5d4d1fd85ee5
+
+https://github.com/jaydeore-007/techie/assets/93081519/e2fea523-0f94-406b-9b1e-2b17163fc5db
+
+
 
 
     
