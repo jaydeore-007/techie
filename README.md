@@ -23,8 +23,8 @@
 ![ecomm10](https://github.com/jaydeore-007/techie/assets/93081519/7453fb5f-8e24-4b84-aa90-ef0081e9291a)
 
 
-https://github.com/jaydeore-007/techie/assets/93081519/e2fea523-0f94-406b-9b1e-2b17163fc5db
 
+https://github.com/jaydeore-007/techie/assets/93081519/57126e26-abc8-4582-ae4f-158bcdfd2356
 
 
 
